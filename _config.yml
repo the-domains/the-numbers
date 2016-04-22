@@ -1,0 +1,28 @@
+name: The Numbers
+favicon: null
+layout_spectrum: 0.15290124202147126
+typography_spectrum: 0.7515111737884581
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7785451845265925
+  lightness: 0.17360004945658147
+  saturation: 0.20855562877841294
+  rhythmicContrast: 0.05768614960834384
+purpose: []
